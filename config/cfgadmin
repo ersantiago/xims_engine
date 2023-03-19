@@ -1,0 +1,16 @@
+/mnt/share/scripts/admin_scripts/xims_cfgsync.py
+/mnt/share/scripts/admin_scripts/xims_cfgsyncv2.py
+/mnt/share/scripts/admin_scripts/xims_pcgather_linux.py
+/mnt/share/scripts/admin_scripts/getncwfh.sh nclogin_table & 
+/mnt/share/scripts/admin_scripts/getncwfh.sh nclogin_table.list &
+/mnt/share/scripts/admin_scripts/getncwin.sh nclogin_wintable &
+/home/ersantiago/.tmp/prdb/getprd.sh prd_table.list &
+/mnt/share/scripts/admin_scripts/getncwin.sh nclogin_wintable.list &
+/mnt/share/scripts/admin_scripts/pcgather_linux.py
+/mnt/share/scripts/admin_scripts/patchgather_linux.py
+/mnt/share/scripts/admin_scripts/patchgather_windows.py
+/mnt/share/scripts/admin_scripts/prdbgather_linux.py
+/mnt/share/scripts/admin_scripts/prdgsheet_sync.py
+#/mnt/share/scripts/admin_scripts/temp.py
+/mnt/share/scripts/admin_scripts/fiptracker.py
+/mnt/share/scripts/admin_scripts/wpsync.py

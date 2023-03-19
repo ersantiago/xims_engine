@@ -1,0 +1,2 @@
+SCRIPT_PATH	 					OUTPUT_PATH
+/mnt/share/scripts/admin_scripts/admin_engine.py 	/mnt/share/scripts/monitoring/xims/linux/linux_data.list
