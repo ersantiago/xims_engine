@@ -1,5 +1,5 @@
 #====================================================================#
-#                       X-IT Monitoring System                       #
+#                 XIMS ( X-IT Monitoring System )                    #
 #====================================================================#
 
 Endpoints monitoring system to manage company workstations
